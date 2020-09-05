@@ -1,0 +1,18 @@
+{
+    "token": "mfa.IoTcnhcM5EUCl_EO98puqCDYgC4KOPU4K1OAgf_qXMR1_6WkrTXMXTQ0keHn0UHdvQzsAbCGnh7OjR2247dz",
+    "password": "marcco5901506",
+    "prefix": "?",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": true,
+    "privnote_sniper": true,
+
+    "stream_url": "https://www.twitch.tv/vegetta777",
+    "tts_language": "es",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
